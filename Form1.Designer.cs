@@ -107,9 +107,8 @@
             this.Controls.Add(this.axAcroPDF1);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.listBox1);
-            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
-            this.Text = "　会員サポートシステム開発";
+            this.Text = "　ファイルプレビュー";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.axAcroPDF1)).EndInit();
             this.ResumeLayout(false);

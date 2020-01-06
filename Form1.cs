@@ -95,14 +95,6 @@ namespace DragAndDrop
 
         private void printDocument1_PrintPage(object sender, System.Drawing.Printing.PrintPageEventArgs e)
         {
-            //Graphics g = e.Graphics;
-            //PointF drawPoint = new PointF(150.0F, 150.0F);
-            //using (Font font = new Font("Lucida Console", 30))
-            //using (SolidBrush drawBrush = new SolidBrush(Color.Black))
-            //{
-            //    g.DrawString("printPreviewControl test.....\n printer", font, drawBrush, drawPoint);
-            //}
-
             //画像を読み込む
             Image img = Image.FromFile(listBox1.SelectedItem.ToString());
             //画像を描画する

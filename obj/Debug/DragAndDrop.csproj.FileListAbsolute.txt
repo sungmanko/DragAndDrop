@@ -14,3 +14,4 @@ D:\Sample\DragAndDrop\DragAndDrop\obj\Debug\Interop.AcroPDFLib.dll
 D:\Sample\DragAndDrop\DragAndDrop\obj\Debug\AxInterop.AcroPDFLib.dll
 D:\Sample\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.csproj.ResolveComReference.cache
 D:\Sample\DragAndDrop\DragAndDrop\bin\Debug\Interop.AcroPDFLib.dll
+D:\Sample\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.csprojAssemblyReference.cache
